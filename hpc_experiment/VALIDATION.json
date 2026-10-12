@@ -1,0 +1,11 @@
+{
+  "data_checks": "passed: hashes, 20 scenarios, 196 memories, same-person/time and conversation splits",
+  "python_compile": "passed",
+  "bash_syntax": "passed",
+  "synthetic_summary_tests": {
+    "passed": 2,
+    "research_results": false
+  },
+  "gpu_model_execution": "not run: no CUDA on authoring machine",
+  "hpc_job_submission": "not performed"
+}
